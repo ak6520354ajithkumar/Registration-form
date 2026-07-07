@@ -1,7 +1,4 @@
 # Registration-form
-Here is a more detailed and professional project description you can use in your GitHub **README.md**:
-
----
 
 ## 📋 Registration Form
 
@@ -55,6 +52,3 @@ This project is ideal for beginners who want to understand how to build responsi
 * Add animations and transitions
 * Integrate CAPTCHA for spam prevention
 
----
-
-This version is more professional and suitable for showcasing the project on GitHub or in your portfolio.
